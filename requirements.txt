@@ -1,8 +1,17 @@
 numpy
 pandas
 matplotlib
+seaborn
+plotly
+kaleido
 scikit-learn
 xgboost
 shap
 torch
 jupyter
+nbclient
+nbformat
+vaderSentiment
+streamlit
+fastapi
+uvicorn[standard]
